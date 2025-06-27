@@ -50,13 +50,13 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
 </p>
-##📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=manish28rathore&show_icons=true&locale=en&theme=radical" alt="manish28rathore" />
 </p>
 
 </p>
-##🪟Languages
+## 🪟Languages
 <p align="left" >
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=manish28rathore&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="manish28rathore" /></p> 
     
