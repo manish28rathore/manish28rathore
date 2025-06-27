@@ -49,11 +49,17 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-</p># 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manish28rathore&theme=radical&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manish28rathore&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish28rathore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
+##📊 GitHub Stats:
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=manish28rathore&show_icons=true&locale=en&theme=radical" alt="manish28rathore" />
+</p>
 
+</p>
+##🪟Languages
+<p align="left" >
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=manish28rathore&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="manish28rathore" /></p> 
+    
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manish28rathore&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
