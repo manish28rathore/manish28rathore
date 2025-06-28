@@ -13,7 +13,6 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://rustfoundation.org/wp-content/uploads/2024/07/cropped-rust-lang-logo-black-192x192.png" alt="Rust" width="40" height="40" />
-    <img src="https://tse3.mm.bing.net/th/id/OIP.uDoQRZk_i0rLDLvBdiMzVAHaEc?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3" alt="Python" width="40" height="40" />
 </p>
 
 <h3>Frontend Development :</h3>
