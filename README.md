@@ -57,11 +57,9 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
     <img src="https://github-readme-stats.vercel.app/api?username=manish28rathore&show_icons=true&locale=en&theme=radical" alt="manish28rathore" />
 </p>
 
-</p>
-
 ## 🪟 Languages
-<p align="left" >
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=manish28rathore&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="manish28rathore" /></p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish28rathore&layout=compact&theme=radical)](https://github.com/manish28rathore)
+
     
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manish28rathore&theme=radical&no-frame=false&no-bg=true&margin-w=4)
