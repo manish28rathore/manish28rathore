@@ -21,14 +21,14 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" />
 </p>
 <h3>Backend Development :</h3>
 <p >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     <img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" alt="nodejs" width="40" height="40" />
     <img src="https://miro.medium.com/v2/resize:fit:1800/1*HTy1M1eFC7GoW6odSukQVw.png" alt="express.js" width="80" height="40" />
-    <img src="https://www.iexcel-technologies.com/wp-content/uploads/2020/03/rest-api-logo.png" alt="restapi" width="40" height="40" />
+    <img src="https://th.bing.com/th/id/R.b8c83e1394a0fd1b9fdec510fd9a1836?rik=mtXZQe9kgC3BwQ&riu=http%3a%2f%2fanveshtech.com%2fwp-content%2fuploads%2f2024%2f07%2fjquery-scaled.webp&ehk=vHUTsXxyL3oIRjQ1T6ZrYeyrUyqabZQS%2f6E4Emshf%2fo%3d&risl=&pid=ImgRaw&r=0" alt="JQuery" width="40" height="40" />
 </p>
 
 <h3>Database :</h3>
