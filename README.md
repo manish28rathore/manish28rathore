@@ -33,8 +33,8 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
 
 <h3>Database :</h3>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
- alt="mongodb" width="40" height="40" />
+    <img src="https://www.clipartmax.com/png/middle/171-1718351_cockroachdb-logo-png-transparent-cockroach-labs.png"
+ alt="chocroachdb" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt
 ="mysql" width="40" height="40" />
     <img src="https://th.bing.com/th/id/R.b25bae44ff516c7dcc3eacdb14d2c499?rik=5rI66KCDGmJOgQ&riu=http%3a%2f%2fclipart.info%2fimages%2fccovers%2f1499955337microsoft-sql-server-logo-png.png&ehk=cFGE%2f%2fesEwqoP90RGgL2BquXFkUt7z4aF%2bLwj4hQ6GA%3d&risl=&pid=ImgRaw&r=0" alt="microsoft sql" width="40" height="40" />
