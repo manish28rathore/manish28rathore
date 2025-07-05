@@ -51,7 +51,7 @@ I'm Manish Rathore, a passionate developer based in New Delhi, India. I love bui
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-    <img src="https://th.bing.com/th/id/OIP.8vgrIa_c9ysA1OJ73L5-RAHaHa?w=180&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="DaVinci Resolve" width="40" height="40" />
+    <img src="https://w7.pngwing.com/pngs/588/408/png-transparent-davinci-resolve-alt-macos-bigsur-icon-thumbnail.png" alt="DaVinci Resolve" width="40" height="40" />
 </p>
 
 ## 📊  GitHub Stats:
