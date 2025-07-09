@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm Manish Rathore, a passionate developer based in New Delhi, India. I love building innovative solutions and exploring new technologies in the world of software development.<br>I'm current learning Rust and DSA.<br>I rarely make projects for now, I am focusing on learning.
+I have a keen interest in Web3 and cybersecurity.
 
 
 ## 🌐 Socials:
