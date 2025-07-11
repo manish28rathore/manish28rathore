@@ -60,7 +60,7 @@ I have a keen interest in Web3 and cybersecurity.
     <img src="https://github-readme-stats.vercel.app/api?username=manish28rathore&show_icons=true&locale=en&theme=radical" alt="manish28rathore" />
 </p>
 
-## 🪟 Languages
+## 💾 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish28rathore&layout=compact&theme=radical)](https://github.com/manish28rathore)
 
     
