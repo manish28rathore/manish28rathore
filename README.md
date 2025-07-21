@@ -1,5 +1,5 @@
 # 💫 About Me:
-Manish Rathore Based in New Delhi, India, I am an enthusiastic software developer with a deep interest in crafting innovative solutions and exploring emerging technologies. Currently, I am dedicated to strengthening my foundation in Rust and Data Structures & Algorithms (DSA), with a focus on building long-term expertise before venturing into project development. My areas of interest include Web3 technologies and cybersecurity, where I continually seek opportunities to broaden my understanding and contribute meaningfully in the future.
+Manish Rathore Based in New Delhi, India, I am an enthusiastic software developer with a deep interest in crafting innovative solutions and exploring emerging technologies. Currently, I am dedicated to strengthening my foundation in Rust and Data Structures & Algorithms (DSA), with a focus on building long-term expertise before venturing into project development. My areas of interest include Web3 technologies and cybersecurity, where I continually seek opportunities to broaden my understanding and contribute meaningfully in the future.  
 
 
 ## 🌐 Socials:
