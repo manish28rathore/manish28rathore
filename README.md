@@ -10,7 +10,7 @@ Manish Rathore Based in New Delhi, India, I am an enthusiastic software develope
 # 💻 Tech Stack:
 <h3>Languages :</h3>
 <p >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> 
+    <img src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" alt="c" width="40" height="40" /> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://th.bing.com/th/id/R.d5fecb8dec83c7d87df23656f61a51e5?rik=giwby0KEhLlPEQ&riu=http%3a%2f%2frust-lang.org%2flogos%2frust-logo-512x512.png&ehk=fLtV4l2OjyRvC3QnMXDP5%2f7dnwFYK%2f5E5n9jgF6CSkk%3d&risl=&pid=ImgRaw&r=0" alt="Rust" width="40" height="40" />
 </p>
