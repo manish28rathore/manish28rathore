@@ -3,7 +3,7 @@ Manish Rathore Based in New Delhi, India, I am an enthusiastic software develope
     
 
 ## 🌐 Socials:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" width="40" alt="linkedIn" /> <img src="https://ts2.mm.bing.net/th?id=OIP.cX2oApD3MGKhH8jQgMLQWwHaHa&pid=15.1" alt="Gmail" height="40" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" width="40" alt="linkedIn" /> <img src="https://ts2.mm.bing.net/th?id=OIP.cX2oApD3MGKhH8jQgMLQWwHaHa&pid=15.1" alt="Gmail" height="40" width="40" /> <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="X" height="40" width="40" />
 
 
 
