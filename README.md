@@ -44,7 +44,7 @@ Manish Rathore Based in New Delhi, India, I am an enthusiastic software develope
 <h3>Devops :</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/512/2673/2673864.png" alt="GitHub" width="40" height="40" />
+    <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/original/github-logo-transparent-background-free-png.png" alt="GitHub" width="60" height="60" />
 </p>
 
 <h3>Developer Tool:</h3>
