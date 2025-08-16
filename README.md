@@ -49,8 +49,9 @@ Manish Rathore Based in New Delhi, India, I am an enthusiastic software develope
 
 <h3>Developer Tool:</h3>
 <p>
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" alt="Bash" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  <img src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" alt="Bash" width="40" height="40" />
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-1024.png" alt="debian" width="40" height="40" /> 
 </p>
 
 <h3>Software :</h3>
